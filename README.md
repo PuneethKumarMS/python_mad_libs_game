@@ -12,4 +12,13 @@ This project is part of my **Python learning journey** and belongs to the **Stri
 
 ---
 
+# 📌 Future Improvements (Mad Libs)
+
+- Add more word categories for richer stories
+- Allow multiple sentences for a bigger story
+- Create a random word generator for auto-filling
+- Build a GUI version using Tkinter
+EOF
+
+
 
